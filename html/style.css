@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&display=swap');
+
+p{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin-left: 550px;
+    width: 600px;
+}
+
+h2{
+    font-family: 'Lato', sans-serif;
+    
+    
+
+}
+
+h1{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    
+}
+
+ul{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 50px;
+    
+    
+}
+img{
+    margin-left: 600px;
+    margin-top: 100px;
+    
+
+}
+
+header{
+    background-color: #cccccc;
+    padding: 20px;
+}
+
+.navigation{
+    font-size: 25px;
+    list-style: none;
+    display: flex;
+    background-color: #bab8b8;
+    padding: 30px;
+    margin-left: 2px;
+   
+    
+}
+
+.a{
+    margin-left: 350px;
+}
+.vop{
+    margin-left: 765px;
+}
+
+.qq{
+    margin-top: 100px;
+    margin-left: 585px;
+
+}
+
+.wasd{
+    margin-left: 600px;
+}
+
+.ret{
+    margin-left: 720px;
+    margin-top: 100px;
+}
+
+.fot{
+    margin-top: 100px;
+    margin-left: 820px;
+}
+
+.tex{
+    margin-bottom: 100px;
+}
